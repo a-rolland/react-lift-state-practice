@@ -1,0 +1,23 @@
+.plain-label{
+    font-size: 18px;
+    font-weight: bold;
+    background: #f5f5f5;
+    border: 1px solid #333;
+    padding: 4px 8px;
+  }
+   
+  .green-label{
+    color: green;
+  }
+   
+  .red-label{
+    color: red;
+  }
+   
+  .orange-label{
+    color: orange;
+  }
+   
+  .black-label{
+    color: black;
+  }
